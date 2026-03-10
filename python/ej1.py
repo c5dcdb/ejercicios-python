@@ -1,5 +1,7 @@
-print("hola a todos")
-print("bienvenidos a python")
-print("espero que les guste el curso")
-print("vamos a aprender mucho")
-print("python es un lenguaje de programación muy popular")
+int a = 90
+int b = 120
+int suma
+
+suma = a + b
+
+print("la suma entre a y b es: ", suma)
