@@ -1,3 +1,5 @@
 print("hola a todos")
 print("bienvenidos a python")
 print("espero que les guste el curso")
+print("vamos a aprender mucho")
+print("python es un lenguaje de programación muy popular")
