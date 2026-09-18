@@ -1,7 +1,5 @@
-int a = 90
-int b = 120
-int suma
-
+a = 90
+b = 120
 suma = a + b
 
 print("la suma entre a y b es: ", suma)
